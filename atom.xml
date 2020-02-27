@@ -2,17 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Non! Non da yo!</title>
   
-  <subtitle>XXXXXXXXXX</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://oshino-rei.github.io/"/>
   <updated>2020-02-27T06:43:47.359Z</updated>
   <id>https://oshino-rei.github.io/</id>
-  
-  <author>
-    <name>oshino-rei</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
