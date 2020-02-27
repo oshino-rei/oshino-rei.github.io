@@ -2,31 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Non! Non da yo!</title>
   
-  
+  <subtitle>XXXXXXXXXX</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://oshino-rei.github.io/"/>
-  <updated>2019-05-22T09:56:52.750Z</updated>
+  <updated>2020-02-27T06:43:47.359Z</updated>
   <id>https://oshino-rei.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>oshino-rei</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>gabare</title>
-    <link href="https://oshino-rei.github.io/2019/05/21/gabare/"/>
-    <id>https://oshino-rei.github.io/2019/05/21/gabare/</id>
-    <published>2019-05-21T13:49:53.000Z</published>
-    <updated>2019-05-22T09:56:52.750Z</updated>
+    <title>b</title>
+    <link href="https://oshino-rei.github.io/2020/02/27/b/"/>
+    <id>https://oshino-rei.github.io/2020/02/27/b/</id>
+    <published>2020-02-27T06:42:22.000Z</published>
+    <updated>2020-02-27T06:43:47.359Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="练习" scheme="https://oshino-rei.github.io/categories/%E7%BB%83%E4%B9%A0/"/>
+    
+    
+      <category term="算法" scheme="https://oshino-rei.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="C++" scheme="https://oshino-rei.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>a</title>
+    <link href="https://oshino-rei.github.io/2020/02/27/a/"/>
+    <id>https://oshino-rei.github.io/2020/02/27/a/</id>
+    <published>2020-02-27T06:42:13.000Z</published>
+    <updated>2020-02-27T06:43:04.337Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="算法" scheme="https://oshino-rei.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://oshino-rei.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="java" scheme="https://oshino-rei.github.io/tags/java/"/>
+    
+      <category term="程序" scheme="https://oshino-rei.github.io/tags/%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
